@@ -1,0 +1,61 @@
+.bg-color{
+    background-color:#9EDDFF;
+    height: 50vh;
+    background-size: cover;
+    background-position: auto;
+  
+}
+.font-1{
+    text-align: left;
+    font-size: 100px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+                         
+    font-family: roboto;
+    color: transparent;
+    font-weight: bold;
+    
+}
+.font-2{
+    text-align: left;
+    font-size: 35px;
+    padding-bottom: 40px;
+    padding: 0px;
+    font-family: roboto;
+    color: rgb(1, 1, 1);
+    
+}
+.bg-clr{
+    background-color:#A6F6FF;
+    height: 40vh;
+    background-size: cover;
+    background-position: auto;
+}
+.card-5{
+    background-color: #DDE6ED;
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    border-width: 10px;
+    padding: 10px;
+    
+    
+}
+.padd{
+    padding: 60px;
+}
+.bg-img-1{
+    background-color: #9EDDFF;
+    height: 100vh;
+    background-size: cover;
+    background-position: auto;
+
+}
+.font-3{
+    font-size: 20px;
+    font-style: bold;
+}
+.text-1{
+    padding: 30px;
+}
